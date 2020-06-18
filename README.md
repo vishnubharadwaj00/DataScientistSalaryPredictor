@@ -10,7 +10,7 @@
 
 ## Motivation
 
-(Inspired by Ken Jee's Youtube Playlist: [Github Repo used](https://github.com/PlayingNumbers/ds_salary_proj))
+(Inspired by Ken Jee's Youtube Playlist: [Github Repo](https://github.com/PlayingNumbers/ds_salary_proj))
 
 During the COVID-19 pandemic, employment levels have reached new lows. The tech industry has also been affected by this, and subsequently, Data Scientists as well. Being able to get a good job right now, with a salary proportionate to the skills they possess is important, and at the same time, much more different compared to more normal period of time. This tool provides a means to help estimate how much salary one might recieve right now, based on their skills, as well as the company hiring them.
 
